@@ -1,3 +1,2 @@
 This is a textfile for the Distributed Systems assignment. 
 Name: Disha Patel
-SCU ID: W1649987
